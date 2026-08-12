@@ -1,76 +1,149 @@
-# Mauricio Henrique Nilton da Silva
+<div align="center">
 
-AI Engineer `(Python & .NET)` | LLM, RAG & AI Agents | Systems Architect
+# Mauricio Henrique
 
-Madrid, Spain  
-B2B Contractor | Digital Nomad Visa | Authorized to work in Spain
+### Senior Full-Stack Engineer · AI Engineer · Systems Architect
 
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-Backend-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-Architecture-6A1577?style=for-the-badge&logo=csharp&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-RAG%20%26%20Agents-0A7EA4?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+Building production-oriented software with .NET, Python, LLMs, RAG, AI agents and distributed systems.
 
-## Short Bio
+[![GitHub](https://img.shields.io/badge/GitHub-Mauricio--HNS-181717?style=for-the-badge&logo=github)](https://github.com/Mauricio-HNS)
+[![Email](https://img.shields.io/badge/Email-Contact-6B7280?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:mauricio-developer@outlook.com)
 
-Senior Software Engineer and AI Engineer with 13+ years of experience building enterprise systems, high-performance APIs, distributed architectures and AI-enabled products using Python, .NET, LLMs, RAG and agent-based workflows.
+</div>
 
-## Pac-Man Contribution Graph
+## Engineering Focus
+
+<table>
+<tr>
+<td width="50%">
+
+### Backend & Architecture
+
+- C# / .NET / ASP.NET Core
+- Python / FastAPI
+- REST / distributed systems
+- Microservices & modular monoliths
+- SQL / PostgreSQL / enterprise integrations
+- Docker / CI/CD / cloud architecture
+
+</td>
+<td width="50%">
+
+### AI Engineering
+
+- LLM applications
+- RAG & semantic retrieval
+- AI agent architectures
+- Tool use & workflow orchestration
+- Multimodal AI
+- Evaluation, memory & autonomous workflows
+
+</td>
+</tr>
+</table>
+
+## Selected Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### [Zero-Agent](https://github.com/Mauricio-HNS/Zero-Agent)
+
+Experimental agent architecture built from scratch in Python. Explores memory, semantic retrieval, RAG, planning, execution, evaluation and autonomy without hiding the fundamentals behind an agent framework.
+
+`Python` `LLM` `RAG` `Agents`
+
+</td>
+<td width="50%">
+
+### [Reflect AI](https://github.com/Mauricio-HNS/reflect-ai)
+
+Multimodal AI assistant concept combining camera vision, voice, contextual memory and specialized agents to guide users through real-world tasks.
+
+`Flutter` `FastAPI` `Vision` `RAG`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [Sentinel Finance AI](https://github.com/Mauricio-HNS/Sentinel-Finance-AI)
+
+Financial risk intelligence platform combining a SaaS dashboard, .NET orchestration, predictive services and AI-generated explanations.
+
+`Next.js` `.NET 8` `FastAPI` `AI`
+
+</td>
+<td width="50%">
+
+### [Smart RFQ Flow](https://github.com/Mauricio-HNS/Smart-RFQ-Flow)
+
+Enterprise-style RFQ-to-Offer workflow with modular architecture, approvals, catalog operations, analytics and integration flows.
+
+`ASP.NET Core` `React` `TypeScript`
+
+</td>
+</tr>
+</table>
+
+## Current Direction
+
+```text
+AI Models
+    ↓
+Agent Architecture
+    ↓
+Memory + Retrieval
+    ↓
+Planning + Tools
+    ↓
+Execution + Evaluation
+    ↓
+Real Software Work
+```
+
+I am particularly interested in the engineering layer that turns capable AI models into reliable systems that can understand goals, use tools, execute workflows and verify their own results.
+
+## Technology
+
+<p align="center">
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+</p>
+
+## Engineering Principles
+
+- Prefer explicit architecture over framework magic when researching new systems.
+- Build around replaceable interfaces and model-agnostic components.
+- Treat observability, validation and tests as part of the product.
+- Optimize for maintainability first, then scale deliberately.
+- Turn prototypes into demonstrable, documented engineering artifacts.
+
+## Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mauricio-HNS/Mauricio-HNS/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mauricio-HNS/Mauricio-HNS/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mauricio-HNS/Mauricio-HNS/output/pacman-contribution-graph.svg">
+  <img alt="Contribution graph" src="https://raw.githubusercontent.com/Mauricio-HNS/Mauricio-HNS/output/pacman-contribution-graph.svg">
 </picture>
-
-## About Me
-
-- Senior Software Engineer with 13+ years of experience building enterprise systems, backend platforms and high-performance APIs
-- Strong background in `.NET`, `C#`, `ASP.NET Core`, `Python`, distributed systems and scalable architecture
-- Focused on AI-enabled applications using `LLMs`, `RAG`, intelligent workflows and AI agents
-- Experienced in enterprise integrations across ERP, payments and industrial systems
-- Comfortable designing systems end-to-end, from architecture and APIs to product-grade frontend experiences
-
-## Core Strengths
-
-- Backend architecture with `.NET / C#` and `Python`
-- Microservices and distributed systems
-- Cloud architecture with `AWS` and `Azure`
-- High-performance APIs and enterprise integrations
-- CI/CD, DevOps automation, scalability and performance tuning
-- AI product engineering with LLMs, RAG pipelines and agent-based workflows
-
-## Featured Projects
-
-### [Smart RFQ Flow](https://github.com/Mauricio-HNS/Smart-RFQ-Flow)
-
-Mini-enterprise RFQ-to-Offer platform with modular monolith architecture, workflow orchestration, approvals, sourcing-oriented catalog flows, analytics and React + ASP.NET Core foundations.
-
-### [Sentinel Finance AI](https://github.com/Mauricio-HNS/Sentinel-Finance-AI)
-
-Financial risk intelligence platform with enterprise-style dashboards, AI-oriented workflows, customer risk ranking and a strong SaaS presentation layer.
-
-### [Alerta Scanner](https://github.com/Mauricio-HNS/Alerta-Scanner)
-
-Desktop-first real-world monitoring tool for appointment availability with automated checks, local dashboard, session reuse and Playwright-assisted flows.
-
-## Current Focus
-
-- AI-native enterprise platforms
-- workflow orchestration systems
-- scalable sourcing and catalog platforms
-- strong GitHub portfolio projects with real product positioning
-
-## Recruiter Snapshot
-
-- 13+ years in software engineering
-- enterprise backend and systems architecture
-- Python, .NET, C#, ASP.NET Core
-- LLM, RAG and AI agents
-- cloud, integrations and scalable APIs
-- based in Madrid, Spain
 
 ## Contact
 
-- Email: `mauricio-developer@outlook.com`
+For engineering, architecture and AI product work: **mauricio-developer@outlook.com**
+
+<div align="center">
+
+### Engineering software at the boundary between AI and real-world work.
+
+</div>
