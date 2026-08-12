@@ -1,76 +1,66 @@
 # Mauricio Henrique Nilton da Silva
 
-AI Engineer `(Python & .NET)` | LLM, RAG & AI Agents | Systems Architect
+Senior Full-Stack & AI Engineer `(C# / .NET / Python)` | LLM, RAG & AI Agents | Systems Architecture
 
-Madrid, Spain  
-B2B Contractor | Digital Nomad Visa | Authorized to work in Spain
+Madrid, Spain
 
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-Backend-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-Architecture-6A1577?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-AI%20Engineering-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-RAG%20%26%20Agents-0A7EA4?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-## Short Bio
+Senior Software Engineer and AI Engineer with 13+ years building enterprise systems, APIs, distributed architectures and AI-enabled products. Strongest in C#/.NET and enterprise backend engineering, with Python applied extensively to AI, automation and data workflows.
 
-Senior Software Engineer and AI Engineer with 13+ years of experience building enterprise systems, high-performance APIs, distributed architectures and AI-enabled products using Python, .NET, LLMs, RAG and agent-based workflows.
+## Engineering focus
 
-## Pac-Man Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mauricio-HNS/Mauricio-HNS/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mauricio-HNS/Mauricio-HNS/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mauricio-HNS/Mauricio-HNS/output/pacman-contribution-graph.svg">
-</picture>
-
-## About Me
-
-- Senior Software Engineer with 13+ years of experience building enterprise systems, backend platforms and high-performance APIs
-- Strong background in `.NET`, `C#`, `ASP.NET Core`, `Python`, distributed systems and scalable architecture
-- Focused on AI-enabled applications using `LLMs`, `RAG`, intelligent workflows and AI agents
-- Experienced in enterprise integrations across ERP, payments and industrial systems
-- Comfortable designing systems end-to-end, from architecture and APIs to product-grade frontend experiences
-
-## Core Strengths
-
-- Backend architecture with `.NET / C#` and `Python`
-- Microservices and distributed systems
-- Cloud architecture with `AWS` and `Azure`
-- High-performance APIs and enterprise integrations
-- CI/CD, DevOps automation, scalability and performance tuning
-- AI product engineering with LLMs, RAG pipelines and agent-based workflows
+- `.NET / C# / ASP.NET Core`
+- `Python / FastAPI`
+- REST APIs, distributed systems and enterprise integrations
+- Clean Architecture, modular monoliths and microservices
+- `React`, `TypeScript`, `Flutter` and product-oriented UI
+- LLM applications, RAG, agents and multimodal AI
+- AWS, Azure, Docker, Kubernetes and CI/CD
 
 ## Featured Projects
 
-### [Smart RFQ Flow](https://github.com/Mauricio-HNS/Smart-RFQ-Flow)
+### [Zero-Agent](https://github.com/Mauricio-HNS/Zero-Agent)
 
-Mini-enterprise RFQ-to-Offer platform with modular monolith architecture, workflow orchestration, approvals, sourcing-oriented catalog flows, analytics and React + ASP.NET Core foundations.
+Autonomous-agent architecture focused on planning, execution, memory, RAG and controlled tool workflows.
+
+### [Reflect AI](https://github.com/Mauricio-HNS/reflect-ai)
+
+Multimodal assistant combining camera vision, voice, contextual memory and specialized agents to guide real-world tasks.
+
+### [KnowledgeForge AI](https://github.com/Mauricio-HNS/KnowledgeForge-AI)
+
+Enterprise knowledge platform centered on multi-tenant RAG, document processing, hybrid retrieval and source-grounded AI.
 
 ### [Sentinel Finance AI](https://github.com/Mauricio-HNS/Sentinel-Finance-AI)
 
-Financial risk intelligence platform with enterprise-style dashboards, AI-oriented workflows, customer risk ranking and a strong SaaS presentation layer.
+Financial risk intelligence showcase combining Next.js, ASP.NET Core, FastAPI prediction services and AI-assisted workflows.
 
-### [Alerta Scanner](https://github.com/Mauricio-HNS/Alerta-Scanner)
+### [Smart RFQ Flow](https://github.com/Mauricio-HNS/Smart-RFQ-Flow)
 
-Desktop-first real-world monitoring tool for appointment availability with automated checks, local dashboard, session reuse and Playwright-assisted flows.
+Enterprise-style RFQ-to-Offer workflow demonstrating domain modeling, approvals, auditability, catalog operations and React + ASP.NET Core.
 
-## Current Focus
+### [ScreenForge AI](https://github.com/Mauricio-HNS/ScreenForge-AI)
 
-- AI-native enterprise platforms
-- workflow orchestration systems
-- scalable sourcing and catalog platforms
-- strong GitHub portfolio projects with real product positioning
+Desktop visual capture and OCR product evolving toward AI-assisted transcription that preserves the structure and meaning of captured content.
 
-## Recruiter Snapshot
+## Current Direction
 
-- 13+ years in software engineering
-- enterprise backend and systems architecture
-- Python, .NET, C#, ASP.NET Core
-- LLM, RAG and AI agents
-- cloud, integrations and scalable APIs
-- based in Madrid, Spain
+Building AI-native enterprise software where traditional software engineering, deterministic workflows and LLM-based reasoning work together rather than replacing one another.
+
+## Portfolio principles
+
+- Architecture before hype
+- Explicit boundaries between implemented and planned features
+- Source-grounded AI whenever factual answers matter
+- Deterministic behavior around probabilistic models
+- Production-oriented engineering, observability and security
 
 ## Contact
 
-- Email: `mauricio-developer@outlook.com`
+`mauricio-developer@outlook.com`
