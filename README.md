@@ -49,6 +49,10 @@ Enterprise-style RFQ-to-Offer workflow demonstrating domain modeling, approvals,
 
 Desktop visual capture and OCR product evolving toward AI-assisted transcription that preserves the structure and meaning of captured content.
 
+## Portfolio structure
+
+The repositories above are the current technical showcase. Other public repositories contain historical applications, experiments, tutorials, UI prototypes, samples and imported open-source projects. They remain available for reference but are intentionally not presented as current flagship work.
+
 ## Current Direction
 
 Building AI-native enterprise software where traditional software engineering, deterministic workflows and LLM-based reasoning work together rather than replacing one another.
